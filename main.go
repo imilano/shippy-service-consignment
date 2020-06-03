@@ -6,7 +6,7 @@ import (
 	"net"
 	"sync"
 
-	pb "github.com/<YourUsername>/shippy-service-consignment/proto/consignment"
+	pb "github.com/imilano/shippy-service-consignment/proto/consignment"
 	"google.golang.org/grpc"
 )
 
